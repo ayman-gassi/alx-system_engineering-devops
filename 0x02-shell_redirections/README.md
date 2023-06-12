@@ -1,1 +1,1 @@
-0x02-shell_redirections
+shell i/o redirections and filters readme file
